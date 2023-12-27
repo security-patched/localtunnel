@@ -1,12 +1,13 @@
 {
-  "name": "localtunnel",
+  "name": "@security-patched/localtunnel",
   "description": "Expose localhost to the world",
-  "version": "2.0.2",
+  "version": "2.0.2-secpatched.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/localtunnel/localtunnel.git"
+    "url": "git://github.com/security-patched/localtunnel.git"
   },
+  "private": false,
   "author": "Roman Shtylman <shtylman@gmail.com>",
   "contributors": [
     "Roman Shtylman <shtylman@gmail.com>",
