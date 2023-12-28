@@ -1,7 +1,7 @@
 {
   "name": "@security-patched/localtunnel",
   "description": "Expose localhost to the world",
-  "version": "2.0.2-secpatched.1",
+  "version": "2.0.2-secpatched.3",
   "license": "MIT",
   "repository": {
     "type": "git",
