@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Use Github's `Private vulnerability reporting` for this repository.
+Use Github's `Private vulnerability reporting` feature.
