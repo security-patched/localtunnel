@@ -1,12 +1,26 @@
+![npm](https://img.shields.io/npm/dw/%40security-patched%2Flocaltunnel)
+
+## Patched
+
+This is a security patched version of the [localtunnel](https://www.npmjs.com/package/localtunnel) package. The purpose of this package is to allow the continued use of `localtunnel` but not be exposed to known/reported security vulnerabilities as reported by tools such as GitHub's dependabot. As such we will not be adding new features or capabilities and keeping any changes as minimal as possible. Our preference would be that the owners of the `localtunnel` package recommence maintenance.
+
+### Using as a replacement for localtunnel
+
+It is possible to use the `@security-patched/localtunnel` package as if it is the `localtunnel` package like so; replace version with the latest release.
+
+```json
+  "devDependencies" : {
+    ...,
+    "localtunnel": "https://registry.npmjs.org/@security-patched/localtunnel/-/localtunnel-<version>.tgz",
+    ...,
+  }
+```
+
 # localtunnel
 
 localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
 
 Great for working with browser testing tools like browserling or external api callback services like twilio which require a public url for callbacks.
-
-## Patched
-
-This is a security patched verison of the [localtunnel](https://www.npmjs.com/package/localtunnel) package. The purpose of this package is to allow the continued use of `localtunnel` but not be exposed to known/reported security vulnerabilities as reported by tools such as GitHub's dependabot. As such we will not be adding new features or capabilities and keeping any changes as minimal as possible. Our preference would be that the owners of the `localtunnel` package recommence maintenance.
 
 ## Quickstart
 
