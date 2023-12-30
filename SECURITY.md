@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Use Github's `Private vulnerability reporting` feature.
+Use Github's `Private vulnerability reporting` feature to report any [vulnerabilities](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability).
