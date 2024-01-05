@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/dw/%40security-patched%2Flocaltunnel)
+[![npm](https://img.shields.io/npm/dw/%40security-patched%2Flocaltunnel)](https://www.npmjs.com/package/@security-patched/localtunnel)
 
 ## Patched
 
