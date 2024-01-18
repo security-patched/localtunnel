@@ -11,7 +11,7 @@ It is possible to use the `@security-patched/localtunnel` package as if it is th
 ```json
   "devDependencies" : {
     ...,
-    "localtunnel": "https://registry.npmjs.org/@security-patched/localtunnel/-/localtunnel-<version>.tgz",
+    "localtunnel": "npm:@security-patched/localtunnel@^<version>",
     ...,
   }
 ```
